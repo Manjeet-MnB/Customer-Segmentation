@@ -1,0 +1,3 @@
+This project aims to segment customers in an online retail dataset using RFM (Recency, Monetary, Frequency) analysis. 
+The dataset covers transactional information from December 2010 to December 2011, providing valuable insights into customer behaviors. By applying clustering techniques, we can identify distinct customer segments based on their purchasing patterns.
+RFM analysis, encompassing recency, monetary value, and purchase frequency, allows us to differentiate customers and tailor marketing strategies accordingly. The analysis period captures a full year of customer behavior, including seasonal variations, trends, and changes in purchasing patterns.
